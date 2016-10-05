@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:14.04
 MAINTAINER Fer Uria <fauria@gmail.com>
 LABEL Description="Docker container for Database Search and Replace tool" \
   License="GPL v3" \
